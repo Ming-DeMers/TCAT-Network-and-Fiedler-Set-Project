@@ -1,0 +1,62 @@
+Route,Source,Target,,
+10,(3) CAT,(4) CMS,,1: Airport
+11,(7) IC,(4) CMS,,2: Central Ave (East Ave)
+13,(11) SCI,(4) CMS,,3: Central Ave (Tower Rd)
+13,(4) CMS,(8) IM,,4. Commons
+13,(8) IM,(14) YMCA,,5. Collegetown
+13,(8) IM,(11) SCI,,6. DMV
+13S,(6) DMV,(11) SCI,,7. Ithaca College
+13S,(11) SCI,(4) CMS,,8. Ithaca Mall
+13S,(4) CMS,(6) DMV,,9. North Campus
+14S,(12) WGM,(10) TJS,,10. TC3
+15,(4) CMS,(12) WGM,,11. TJ's
+15,(12) WGM,(10) TJS,,12. Science Center
+15,(10) TJS,(4) CMS,,13. Wegman's
+17,(11) SCI,(4) CMS,,14. West Campus
+30,(9) NCP,(2) CAE,,15. YMCA
+30,(3) CAT,(5) CTN,,
+30,(5) CTN,(4) CMS,,
+30,(4) CMS,(8) IM,,
+30,(8) IM,(9) NCP,,
+30,(9) NCP,(5) CTN,,
+30,(5) CTN,(8) IM,,
+30,(8) IM,(2) CAE,,
+30,(3) CAT,(4) CMS,,
+30,(4) CMS,(9) NCP,,
+31-41,(9) NCP,(2) CAE,,
+32,(9) NCP,(2) CAE,,
+32,(3) CAT,(1) Aprt,,
+32,(1) Aprt,(4) CMS,,
+32,(4) CMS,(2) CAE,,
+32,(3) CAT,(9) NCP,,
+32,(9) NCP,(1) Aprt,,
+36,(9) NCP,(13) WCP,,
+36,(13) WCP,(4) CMS,,
+36,(4) CMS,(8) IM,,
+36,(8) IM,(9) NCP,,
+36,(9) NCP,(4) CMS,,
+36,(4) CMS,(13) WCP,,
+37,(9) NCP,(4) CMS,,
+43,(10) TCCC,(4) CMS,,
+51,(3) CAT,(3) CAT,,
+51,(3) CAT,(5) CTN,,
+51,(5) CTN,(4) CMS,,
+51,(4) CMS,(2) CAE,,
+51,(3) CAT,(5) CTN,,
+51,(5) CTN,(3) CAT,,
+65,(7) IC,(4) CMS,,
+67,(4) CMS,(10) TJS,,
+81,(9) NCP,(2) CAE,,
+81,(3) CAT,(3) CAT,,
+81,(3) CAT,(9) NCP,,
+82,(13) WCP,(3) CAT,,
+83,(9) NCP,(2) CAE,,
+90,(9) NCP,(2) CAE,,
+90,(3) CAT,(5) CTN,,
+90,(5) CTN,(4) CMS,,
+90,(4) CMS,(9) NCP,,
+90,(9) NCP,(5) CTN,,
+90,(4) CMS,(2) CAE,,
+92,(9) NCP,(13) WCP,,
+92,(13) WCP,(5) CTN,,
+92,(5) CTN,(9) NCP,,
